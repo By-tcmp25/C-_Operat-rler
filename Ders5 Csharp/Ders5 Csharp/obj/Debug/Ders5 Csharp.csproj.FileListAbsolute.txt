@@ -1,0 +1,7 @@
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\bin\Debug\Ders5 Csharp.exe.config
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\bin\Debug\Ders5 Csharp.exe
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\bin\Debug\Ders5 Csharp.pdb
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\obj\Debug\Ders5 Csharp.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\obj\Debug\Ders5 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\obj\Debug\Ders5 Csharp.exe
+C:\Users\Mehmet\Desktop\Mehmet\Zahidpekince\coder\c# dersleri ve projeleri\Ders5 Csharp\Ders5 Csharp\obj\Debug\Ders5 Csharp.pdb
