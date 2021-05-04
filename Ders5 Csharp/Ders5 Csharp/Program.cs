@@ -169,7 +169,7 @@ namespace Ders5_Csharp
             int opveya2 = 5;
             int opveya3 = 10;               // değişkenleri atadık
 
-            bool CIKTIMIZ = opve1 == opve2 || opve2 > opve3 ;  // veya işaretinden önceki yaptığımız eşittirde alcağımız sonuç True olcak veya işaretinden sonraki yerse False olcak çünkü opve2 büyük değildir opve3 den.
+            bool CIKTIMIZ = opveya1 == opveya2 || opveya2 > opveya3 ;  // veya işaretinden önceki yaptığımız eşittirde alcağımız sonuç True olcak veya işaretinden sonraki yerse False olcak çünkü opve2 büyük değildir opve3 den.
 
                 Console.WriteLine(CIKTIMIZ);                  // burda çıktıyız alacağız alcağımız çıktı True olcak çünü en az bir true kuralına uygun.
                 
@@ -180,7 +180,7 @@ namespace Ders5_Csharp
 
             // yazdığımız bir değişkenin değilini alır yanı tersini yapar.
 
-            bool Hello = true,
+            bool Hello = true;
 
                 Console.WriteLine(Hello);   // burda biz true değerini alcaz
                 Console.WriteLine(!Hello); // ama burda False alcaz çünü başına Değil işareti ekledik.
