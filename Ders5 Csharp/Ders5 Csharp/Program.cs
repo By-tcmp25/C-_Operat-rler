@@ -197,5 +197,3 @@ namespace Ders5_Csharp
         }
     }
 }
-
-
